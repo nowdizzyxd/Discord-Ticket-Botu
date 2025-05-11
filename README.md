@@ -1,4 +1,4 @@
-# Ticket (with NowDizzy
+# Ticket (with NowDizzy)
 
 Türkçe arayüze sahip, kolay kurulumlu ticket (destek talebi) botu.
 
@@ -24,7 +24,7 @@ Türkçe arayüze sahip, kolay kurulumlu ticket (destek talebi) botu.
     "categoryId": "KATEGORI_ID",
     "supportRoleId": "DESTEK_ROL_ID",
     "transcriptChannelId": "TRANSKRIPT_KANAL_ID",
-    "botName": "ShadowTicket"
+    "botName": "Bot ismi"
 }
 ```
 
